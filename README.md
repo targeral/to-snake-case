@@ -4,7 +4,7 @@ Convert a string to a snake case.
 ## Installation
 
 ```
-$ npm install to-snake-case
+$ npm install to-snake-case-g
 ```
 
 
